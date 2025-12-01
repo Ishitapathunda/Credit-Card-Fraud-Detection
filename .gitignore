@@ -1,0 +1,10 @@
+﻿# Dataset (keep locally)
+data/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+.vscode/
+.ipynb_checkpoints/
